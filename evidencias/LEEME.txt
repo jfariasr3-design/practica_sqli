@@ -1,0 +1,11 @@
+Guarda aqui las capturas de pantalla para el informe (PNG o JPG):
+  01_login_normal.png          login con usuario valido (maria / maria123)
+  02_login_incorrecto.png      clave incorrecta
+  03_ataque_manual_login.png   payload manual que evade el login (VULNERABLE)
+  04_ataque_manual_buscar.png  payload UNION que extrae registros (VULNERABLE)
+  05_script_ataque_5000.png    salida de ataque_sql_i.py contra la app vulnerable
+  06_script_ataque_5001.png    salida de ataque_sql_i.py contra la app segura (BLOQUEADO)
+  07_escaneo_red.png           salida de escaneo_red.py
+  08_seguridad_bd.png          salida de seguridad_bd.py
+  09_integrantes.png           foto del grupo (formato institucional 2026)
+  10_colaborativo.png          historial de versiones / edicion simultanea
